@@ -1,0 +1,30 @@
+2025-11-27 04:33:14,415 [INFO] Executed command: ../../scripts/parse_reg_tsv.py --excel -i raw/ -o . --verbose
+2025-11-27 04:33:14,416 [INFO] Input directory: raw, Output directory: .
+2025-11-27 04:33:14,416 [INFO] Excel output enabled, directory: excel
+2025-11-27 04:33:14,416 [INFO] Found 8 files matching pattern '*.reg.tsv'
+2025-11-27 04:33:14,416 [INFO] Processing file: raw/sv-3m1_S136.reg.tsv
+2025-11-27 04:33:14,423 [INFO] Saved TSVs: sv-3m1_S136.contigs.tsv, sv-3m1_S136.chroms.tsv
+2025-11-27 04:33:14,525 [INFO] Saved Excel files: excel/sv-3m1_S136.contigs.xlsx, excel/sv-3m1_S136.chroms.xlsx
+2025-11-27 04:33:14,525 [INFO] Processing file: raw/sv-3m2_S137.reg.tsv
+2025-11-27 04:33:14,536 [INFO] Saved TSVs: sv-3m2_S137.contigs.tsv, sv-3m2_S137.chroms.tsv
+2025-11-27 04:33:14,573 [INFO] Saved Excel files: excel/sv-3m2_S137.contigs.xlsx, excel/sv-3m2_S137.chroms.xlsx
+2025-11-27 04:33:14,573 [INFO] Processing file: raw/sv-B3a_S138.reg.tsv
+2025-11-27 04:33:14,577 [INFO] Saved TSVs: sv-B3a_S138.contigs.tsv, sv-B3a_S138.chroms.tsv
+2025-11-27 04:33:14,599 [INFO] Saved Excel files: excel/sv-B3a_S138.contigs.xlsx, excel/sv-B3a_S138.chroms.xlsx
+2025-11-27 04:33:14,599 [INFO] Processing file: raw/sv-B3c_S139.reg.tsv
+2025-11-27 04:33:14,603 [INFO] Saved TSVs: sv-B3c_S139.contigs.tsv, sv-B3c_S139.chroms.tsv
+2025-11-27 04:33:14,629 [INFO] Saved Excel files: excel/sv-B3c_S139.contigs.xlsx, excel/sv-B3c_S139.chroms.xlsx
+2025-11-27 04:33:14,629 [INFO] Processing file: raw/sv-B3d_S140.reg.tsv
+2025-11-27 04:33:14,633 [INFO] Saved TSVs: sv-B3d_S140.contigs.tsv, sv-B3d_S140.chroms.tsv
+2025-11-27 04:33:14,659 [INFO] Saved Excel files: excel/sv-B3d_S140.contigs.xlsx, excel/sv-B3d_S140.chroms.xlsx
+2025-11-27 04:33:14,659 [INFO] Processing file: raw/sv-B4_S141.reg.tsv
+2025-11-27 04:33:14,663 [INFO] Saved TSVs: sv-B4_S141.contigs.tsv, sv-B4_S141.chroms.tsv
+2025-11-27 04:33:14,691 [INFO] Saved Excel files: excel/sv-B4_S141.contigs.xlsx, excel/sv-B4_S141.chroms.xlsx
+2025-11-27 04:33:14,691 [INFO] Processing file: raw/sv-B5a_S142.reg.tsv
+2025-11-27 04:33:14,694 [INFO] Saved TSVs: sv-B5a_S142.contigs.tsv, sv-B5a_S142.chroms.tsv
+2025-11-27 04:33:14,714 [INFO] Saved Excel files: excel/sv-B5a_S142.contigs.xlsx, excel/sv-B5a_S142.chroms.xlsx
+2025-11-27 04:33:14,714 [INFO] Processing file: raw/sv-B5b_S143.reg.tsv
+2025-11-27 04:33:14,718 [INFO] Saved TSVs: sv-B5b_S143.contigs.tsv, sv-B5b_S143.chroms.tsv
+2025-11-27 04:33:14,748 [INFO] Saved Excel files: excel/sv-B5b_S143.contigs.xlsx, excel/sv-B5b_S143.chroms.xlsx
+2025-11-27 04:33:14,948 [INFO] Created summary Excel files: excel/summary_contigs.xlsx, excel/summary_chroms.xlsx
+2025-11-27 04:33:14,949 [INFO] Processing completed successfully.

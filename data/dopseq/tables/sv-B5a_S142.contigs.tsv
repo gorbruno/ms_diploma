@@ -1,0 +1,2 @@
+sample	chrom	reg_start	reg_end	reg_pos	lg_pd_mean	pd_mean	first_pos_start	last_pos_end	reg_reads	pos_cov_mean	pos_len_mean	pos_len_sum	reg_len	chrom_len	p_expected	p_observed	fold_enrichment	log_ratio	p_value
+sv.B5a_S142	CAXWAE020000012.1	0	3298744	44	4.4264	26693.1606362429	83399	3284618	101	2.2954545454545454	220.97727272727272	9723	3298744	3298744	0.0014816905336254	0.0043358297201418	2.9262721342578555	0.466314711710983	9.909001322879426e-10

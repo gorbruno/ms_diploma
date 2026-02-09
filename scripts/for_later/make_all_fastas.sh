@@ -1,0 +1,1 @@
+while read -r folder; do ../scripts/fuck_repexp.py -i ../samples/$folder -o $folder.fasta -c ../samples/$folder/CLUSTER_TABLE.csv; done< <(ls ../samples)

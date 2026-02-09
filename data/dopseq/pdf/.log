@@ -1,0 +1,13 @@
+2025-11-27 04:29:47,260 [INFO] Executed command: ../../scripts/merge_reg_pdf.py -i raw/ -o bat_dopseq_summary.pdf
+2025-11-27 04:29:47,260 [INFO] Starting merge. Input directory: raw, Output: bat_dopseq_summary.pdf
+2025-11-27 04:29:47,261 [INFO] Found 8 PDF files to merge.
+2025-11-27 04:29:47,261 [INFO] Adding file: raw/sv-3m1_S136.reg.pdf
+2025-11-27 04:29:47,262 [INFO] Adding file: raw/sv-3m2_S137.reg.pdf
+2025-11-27 04:29:47,262 [INFO] Adding file: raw/sv-B3a_S138.reg.pdf
+2025-11-27 04:29:47,263 [INFO] Adding file: raw/sv-B3c_S139.reg.pdf
+2025-11-27 04:29:47,263 [INFO] Adding file: raw/sv-B3d_S140.reg.pdf
+2025-11-27 04:29:47,264 [INFO] Adding file: raw/sv-B4_S141.reg.pdf
+2025-11-27 04:29:47,264 [INFO] Adding file: raw/sv-B5a_S142.reg.pdf
+2025-11-27 04:29:47,265 [INFO] Adding file: raw/sv-B5b_S143.reg.pdf
+2025-11-27 04:29:47,287 [INFO] Saved merged PDF: bat_dopseq_summary.pdf
+2025-11-27 04:29:47,287 [INFO] Finished successfully.
